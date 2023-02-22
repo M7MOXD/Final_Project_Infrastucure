@@ -4,6 +4,8 @@
 
 - gcloud cli
 - Terraform
+- Jenkins
+- Kubernetes
 - Docker
 
 ## How to Use:
